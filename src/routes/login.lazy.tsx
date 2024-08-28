@@ -5,5 +5,9 @@ export const Route = createLazyFileRoute("/login")({
 });
 
 function About() {
-  return <div className="p-2">Hello from Login!</div>;
+  return (
+    <div className="bg-gray-300 text-3xl font-bold underline">
+      Hello from Login!
+    </div>
+  );
 }
