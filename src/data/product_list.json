@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Leather Wallet",
+    "price": 1999,
+    "quantity": 1
+  },
+  {
+    "id": 2,
+    "name": "Wireless Earbuds",
+    "price": 4999,
+    "quantity": 1
+  },
+  {
+    "id": 3,
+    "name": "Stainless Steel Water Bottle",
+    "price": 799,
+    "quantity": 1
+  }
+]
